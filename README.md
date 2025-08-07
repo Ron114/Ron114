@@ -1,134 +1,110 @@
-<h2 align="center">Hey there👋 I'm Ron — a Senior Blockchain and Full Stack Engineer with over 5 years of experience.</h2>
+<h2 align="left">Hey 👋! This is Ron, a Senior Full Stack & Blockchain Developer with over 6 years of experience.</h2>
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windicss" height="60" alt="windicss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=phpstorm" height="60" alt="phpstorm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs" height="60" alt="nuxtjs logo"  />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ruby" height="60" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rails" height="60" alt="rails logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="60" alt="adobeillustrator logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bots" height="60" alt="abbrobotstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="30" alt="vuetify logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="webpack logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=webflow" height="60" alt="webflow logo"  />
+  <img src="https://cdn.simpleicons.org/nuxt/00DC82" height="30" alt="nuxtjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="60" alt="unity logo"  />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="60" alt="svelte logo"  />
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=solidity" height="60" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="60" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=qt" height="60" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=emotion" height="60" alt="emotion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="60" alt="astro logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="47" height="35" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/24254895?v=4"  />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###

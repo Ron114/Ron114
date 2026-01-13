@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💦 Full stack | Scraping | Flutter | Desktop | Expert 💦</h2>
+  <h2>💦 Full stack | Scraping | Desktop | Expert 💦</h2>
 </div>
 
 I empower enthusiasts, and tech-driven businesses with cutting-edge automation tools and custom solutions that deliver real results.
